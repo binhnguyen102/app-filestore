@@ -1,0 +1,316 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "đời hư ảo",
+      "originalName": "download.png",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15,
+      "created_time": "",
+      "path": "https://st.quantrimang.com/photos/image/2016/11/11/anh-gif-3.gif"
+    },
+    {
+      "id": "2",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "tiến quân ",
+      "originalName": "download.png",
+      "path": "https://1.bp.blogspot.com/-SpROm5VhlTc/XmdoSTOZguI/AAAAAAAAW68/W25nzJuWMQQy39FDHOTEu3fDa5l4-P3mwCLcBGAsYHQ/s1600/Hinh-anh-dep-ve-tinh-yeu%2B%25280%2529.jpg",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15,
+      "created_time": "",
+      "tagName": ["City"]
+    },
+    {
+      "id": "4",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "binh minh ",
+      "originalName": "download.png",
+      "path": "https://1.bp.blogspot.com/-ivqYr5g8jII/XmdofRHGmMI/AAAAAAAAW9w/O4F817GdRN0s4mdiUKBe6e9ZkrOU3LvTgCLcBGAsYHQ/s1600/Hinh-anh-dep-ve-tinh-yeu%2B%25285%2529.jpg",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15,
+      "tagName": ["City", "Flowers", "Animals", "Business", "Cars"]
+    },
+    {
+      "id": "5",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "gai xinh",
+      "originalName": "download.png",
+      "path": "https://img.websosanh.vn/v2/users/review/images/4wvuq0i4ozs1q.jpg?compress=85",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15,
+      "tagName": ["City"]
+    },
+    {
+      "id": "6",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "nishida",
+      "originalName": "download.png",
+      "path": "https://www.fivb.org/Vis2009/Images/GetImage.asmx?No=202003087&maxSize=0",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15,
+      "tagName": ["fffgg", "binhu", "dd"]
+    },
+    {
+      "id": "7",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "download.png",
+      "originalName": "download.png",
+      "path": "https://cdn.tgdd.vn/Files/2019/07/25/1181734/do-sau-truong-anh-la-gi-cach-thiet-lap-de-chup-anh-dep-nhat--1.jpg",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15,
+      "tagName": ["Flowers"]
+    },
+    {
+      "id": "9",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43t4gv4tvg",
+      "name": "may anh",
+      "originalName": "download.png",
+      "path": "https://cdn.tgdd.vn/Files/2019/07/25/1181734/do-sau-truong-anh-la-gi-cach-thiet-lap-de-chup-anh-dep-nhat--3.jpg",
+      "size": "600*400",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022",
+      "download_time": "15/01/2022",
+      "download_total": 15,
+      "tagName": ["fffgg", "hoài mất EDF"]
+    },
+    {
+      "id": "11",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "download.png",
+      "originalName": "download.png",
+      "path": "https://marmelab.com/posters/flowers-4.jpeg",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15
+    },
+    {
+      "id": "13",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "xe",
+      "originalName": "download.png",
+      "path": "https://marmelab.com/posters/cars-4.jpeg",
+      "size": "800x600",
+      "status": "false",
+      "type": "png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15
+    },
+    {
+      "id": "14",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "download.png",
+      "originalName": "download.png",
+      "path": "https://marmelab.com/posters/business-10.jpeg",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15
+    },
+    {
+      "id": "15",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "cho con",
+      "originalName": "download.png",
+      "path": "https://marmelab.com/posters/animals-5.jpeg",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15
+    },
+    {
+      "id": "16",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "den",
+      "originalName": "download.png",
+      "path": "https://marmelab.com/posters/city-2.jpeg",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15
+    },
+    {
+      "id": "18",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "cute",
+      "originalName": "download.png",
+      "path": "https://1.bp.blogspot.com/-SpROm5VhlTc/XmdoSTOZguI/AAAAAAAAW68/W25nzJuWMQQy39FDHOTEu3fDa5l4-P3mwCLcBGAsYHQ/s1600/Hinh-anh-dep-ve-tinh-yeu%2B%25280%2529.jpg",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15
+    },
+    {
+      "id": "19",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "canh binh minh",
+      "originalName": "download.png",
+      "path": "https://1.bp.blogspot.com/-ivqYr5g8jII/XmdofRHGmMI/AAAAAAAAW9w/O4F817GdRN0s4mdiUKBe6e9ZkrOU3LvTgCLcBGAsYHQ/s1600/Hinh-anh-dep-ve-tinh-yeu%2B%25285%2529.jpg",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15,
+      "tagName": ["Animals", "Flowers"]
+    },
+    {
+      "id": "20",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "download.png",
+      "originalName": "download.png",
+      "path": "https://marmelab.com/posters/animals-2.jpeg",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15
+    },
+    {
+      "id": "21",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "cute",
+      "originalName": "download.png",
+      "path": "https://1.bp.blogspot.com/-SpROm5VhlTc/XmdoSTOZguI/AAAAAAAAW68/W25nzJuWMQQy39FDHOTEu3fDa5l4-P3mwCLcBGAsYHQ/s1600/Hinh-anh-dep-ve-tinh-yeu%2B%25280%2529.jpg",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15
+    },
+    {
+      "id": "22",
+      "fileId": "8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "name": "canh binh minh",
+      "originalName": "download.png",
+      "path": "https://1.bp.blogspot.com/-ivqYr5g8jII/XmdofRHGmMI/AAAAAAAAW9w/O4F817GdRN0s4mdiUKBe6e9ZkrOU3LvTgCLcBGAsYHQ/s1600/Hinh-anh-dep-ve-tinh-yeu%2B%25285%2529.jpg",
+      "size": "800x600",
+      "status": "ok",
+      "type": "image/png",
+      "fileUrl": "/example/download/8f52e42b-ebe4-474b-8704-e9a6189bbc43",
+      "date": "2021-08-06",
+      "created_at": "11/01/2022T 20:41:53:120Z",
+      "download_time": "15/01/2022T 20:00:00:120Z",
+      "download_total": 15,
+      "tagName": ["Flowers"]
+    }
+  ],
+  "tags": [
+    {
+      "id": "10",
+      "tagName": "cho có"
+    },
+    {
+      "id": "77",
+      "tagName": "rtd"
+    },
+    {
+      "id": "f",
+      "tagName": "ccc"
+    },
+    {
+      "id": "1234",
+
+      "tagName": "vv"
+    },
+    {
+      "tagName": "sd",
+      "id": "q7_3Em4"
+    },
+    {
+      "tagName": "fffgg",
+      "id": "clToL4R"
+    },
+    {
+      "tagName": "ytrsss",
+      "id": "CH7_L3b"
+    },
+    {
+      "tagName": "binhu",
+      "id": "qFZOyQP"
+    },
+    {
+      "tagName": "dd",
+      "id": "SWeTPsE"
+    },
+    {
+      "tagName": "dog",
+      "id": "sQVCpeW"
+    },
+    {
+      "tagName": "dđ",
+      "id": "_hsSm5D"
+    }
+  ]
+}
